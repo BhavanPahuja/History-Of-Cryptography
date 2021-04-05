@@ -11,6 +11,17 @@ collections:
   uploads:
     title: Uploads
     output: true
+  ancient:
+    title: BC
+    output: false
+  medieval:
+    output: false
+  renaissance:
+    output: false
+  twentieth:
+    output: false
+  modern:
+    output: false
 defaults:
   - scope:
       path: ""
@@ -21,7 +32,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: your resume
+description: Unessay for CPSC 329 W21
 baseurl: "/crypto-history"
 url: http://xper28.github.io
 color: "#f2f2f2"

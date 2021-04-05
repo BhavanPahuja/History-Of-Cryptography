@@ -1,0 +1,13 @@
+I"<p><img src="https://www.researchgate.net/profile/Saman-Almufti/publication/318517979/figure/fig2/AS:636630062866442@1528795843952/Stream-cipher-diagram.png" alt="" height="200px" width="300px" /></p>
+
+<p>Cousin to the stream cipher and invented by the same minds, the one-time pad is an uncrackable encryption technique (if applied correctly). The “pad” part of the name comes from the sheets of paper on which the key stream was printed.</p>
+
+<p>The key (no pun intended) difference between the OTP and a standard stream cipher is that the digits in the key stream are truly random. A proper OTP should also have the following properties:
++The key length must be at least equal to the plaintext length
++Only two copies of the pad must ever exist
++Any OTP should only be used once
++Both copies of the OTP must be destroyed immediately post-communication</p>
+
+<p><a href="https://en.wikipedia.org/wiki/One-time_pad#History">Source: Wikipedia</a><br />
+<a href="https://www.cryptomuseum.com/crypto/vernam.htm">Source: Crypto Museum</a></p>
+:ET
