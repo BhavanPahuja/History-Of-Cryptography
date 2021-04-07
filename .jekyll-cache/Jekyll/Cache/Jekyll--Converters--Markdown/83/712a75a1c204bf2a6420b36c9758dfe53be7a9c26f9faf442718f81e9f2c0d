@@ -1,9 +1,0 @@
-I"|<p><img src="https://pictures.abebooks.com/inventory/30792074122.jpg" alt="" height="200px" width="250px" /></p>
-
-<p>Developed by Gilbert Vernam and later refined by Joseph Mauborgne into what was coined the “one-time pad” , the <strong>“Stream Cipher”</strong> is a cipher in which the characters of a plaintext are encrypted one-by-one by combining with a psuedorandom stream of characters. The combining operation is typically an exclusive-or (XOR) and the cipher is symmetrical (the same key encrypts and decrypts it in-order).</p>
-
-<p>Despite their age, stream ciphers are still widely used today in various forms, and are considered among the most important inventions in the history of cryptography.</p>
-
-<p><a href="https://en.wikipedia.org/wiki/Stream_cipher">Source: Wikipedia</a><br />
-<a href="https://www.cryptomuseum.com/crypto/vernam.htm">Source: Crypto Museum</a></p>
-:ET
