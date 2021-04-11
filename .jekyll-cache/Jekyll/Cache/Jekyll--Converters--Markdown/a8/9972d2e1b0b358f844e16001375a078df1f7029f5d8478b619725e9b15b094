@@ -1,0 +1,18 @@
+I"=<p>Hash functions are like fingerprints of a file. The first hash function that has been widely used in cryptography is the MD5 designed by Ronald Rivest, who is also one of the three cryptographers that invented RSA.</p>
+
+<p>Unlike encryption using ciphers like AES or RSA, hashing is a one-direction process. The computer is unable to convert the hashed result back to plaintext. Hash functions are used in cryptography to ensure data integrity and store passwords safely.</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cryptographic_Hash_Function.svg/563px-Cryptographic_Hash_Function.svg.png" alt="" height="400px" width="450px" /></p>
+
+<p>Image: How small changes of input text create totally different output when hashing(The example is using SHA-1)</p>
+
+<p>When someone sends a message to others, they may send the hashing output of the message together with the message itself. The receiver can hash the received message to see if the hashing results match and ensure that the message is not tampered with.</p>
+
+<p>Hash functions can also be used to store passwords. Even if adversaries get hold of the file that stored the passwords’  hashing results, they cannot retrieve the password.</p>
+
+<p>Although MD5 is still widely used today, it has been proved to have severe vulnerabilities and can be easily cracked.  There are more secure hashing functions to replace it, like the Secure Hashing Algorithms(SHA) family, especially the most recently published one, SHA-3.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/MD5">Source: Wikipedia page of “MD5”</a><br />
+<a href="https://en.wikipedia.org/wiki/Cryptographic_hash_function">Source: Wikipedia page of “Cryptographic hash function”</a><br />
+<a href="https://www.youtube.com/watch?v=GI790E1JMgw">Source: A youtube tutorial about hash function</a></p>
+:ET

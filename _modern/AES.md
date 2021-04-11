@@ -1,7 +1,7 @@
 ---
 title: AES - the symmetric cipher that is widely used today
 start: 2001
-order: 4
+order: 5
 ---
 
 In 2001, the US government replaced the unsafe DES with the new Advanced Encryption Standard(AES) to encrypt electronic data. It uses blocks of 128 bits in length and keys of 128, 192 or 256 bits in length, significantly longer than what is used in DES.
@@ -14,5 +14,5 @@ Image: MixColumns step of the AES
 
 Nowadays, the AES is still widely used and is regarded to be highly secured when correctly implemented. No known attack can break it without any prior knowledge of the key. 
 
-[Source: Wikipedia](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)\\
+[Source: Wikipedia page of "AES"](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)\\
 [Source: Announcement made by NIST](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf)
