@@ -14,6 +14,7 @@ The key (no pun intended) difference between the OTP and a standard stream ciphe
 4. Both copies of the OTP must be destroyed immediately post-communication
 
 The OTP was very popular among intelligence agents (and is still used today). Spies would often conceal the pads in incospicuous objects such as walnuts, stones and more.
+
 ![](https://cryptosmith.files.wordpress.com/2007/06/walnut_12539.jpg){:height="200px" width="300px"}
 
 If you'd like to get into the nitty-gritty of how the OTP works, [this paper](http://users.telenet.be/d.rijmenants/papers/one_time_pad.pdf) is an excellent read.
