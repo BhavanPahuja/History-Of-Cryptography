@@ -16,7 +16,7 @@ The Alberti cipher used a cipher wheel that had two differently sized circle dis
 
 Although flawed, Alberti’s cipher was a huge breakthrough for the field of cryptography and variations of the _polyalphabetic cipher_ continued to be used well into the 19th century, earning Alberti the nickname the “Father of Western Cryptography”.
 
-[Source: Wikipedia] (https://en.wikipedia.org/wiki/Leon_Battista_Alberti)\\
-[Source: Wikipedia] (https://en.wikipedia.org/wiki/Alberti_cipher)\\
-[Source: Trinity College] (http://www.cs.trincoll.edu/~crypto/historical/alberti.html#:~:text=The%20Alberti%20cipher%2C%20described%20in,A%20Treatise%20on%20Ciphers%2C%20trans.&text=The%20Alberti%20cipher%20traditionally%20consisted,inner%20disc%20may%20be%20rotated.)\\
-[Source: Western Connecticut State University] (https://sites.wcsu.edu/mbxml/html/section_alberti.html)
+[Source: Wikipedia](https://en.wikipedia.org/wiki/Leon_Battista_Alberti)\\
+[Source: Wikipedia](https://en.wikipedia.org/wiki/Alberti_cipher)\\
+[Source: Trinity College](http://www.cs.trincoll.edu/~crypto/historical/alberti.html#:~:text=The%20Alberti%20cipher%2C%20described%20in,A%20Treatise%20on%20Ciphers%2C%20trans.&text=The%20Alberti%20cipher%20traditionally%20consisted,inner%20disc%20may%20be%20rotated.)\\
+[Source: Western Connecticut State University](https://sites.wcsu.edu/mbxml/html/section_alberti.html)
