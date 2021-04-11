@@ -1,6 +1,6 @@
 ---
 title: Al-Kindi's manuscript and the frequency analysis technique
-start: 1800 
+start: 800 
 order: 0
 ---
 
