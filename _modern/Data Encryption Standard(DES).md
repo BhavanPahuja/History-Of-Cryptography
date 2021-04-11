@@ -4,7 +4,7 @@ start: 1974
 order: 1
 ---
 
-In 1977, a symmetric-key algorithm invented by IBM in 1974 became the standard for encrypting sensitive US government data and was widely applied internationally later on. As a block cipher, it divides the binary message into blocks with a length of 64-bit and uses 56-bit keys to encrypt them. 
+Created by IBM in 1974, Data Encryption Standard(DES) became the standard for encrypting sensitive US government data and was widely applied internationally later on. As a block cipher, it divides the binary message into blocks with a length of 64-bit and uses 56-bit keys to encrypt them. 
 
 The Feistel network is used in the algorithm, which means that the 64-bit input is evenly divided into two 32-bit half blocks and they are processed for 16 identical rounds. In each round, the operations on the blocks include:
 
