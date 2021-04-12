@@ -1,7 +1,7 @@
 ---
 title: Kasiski's test 
 start: 1863
-order: 2
+order: 5
 ---
 
 ![](http://4.bp.blogspot.com/-dSovKAAOnf4/USmy1SnDfTI/AAAAAAAAARw/AWNIWKrjTcI/s200/babbage.png){:height="200px" width="160px"}
