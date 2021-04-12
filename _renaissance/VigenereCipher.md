@@ -1,7 +1,7 @@
 ---
 title: The Vigenere Cipher and introduction of polyalphabetic subsutution cipher
 start: 1553 
-order: 1
+order: 2
 ---
 
 ![](https://d18l82el6cdm1i.cloudfront.net/image_optimizer/997c2bba1ecf29be6672e66e0f7da1bd75e9c648.png){:height="270px" width="480px"}

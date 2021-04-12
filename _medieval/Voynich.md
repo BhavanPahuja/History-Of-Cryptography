@@ -16,5 +16,5 @@ Hopefully as cryptanalysis methods researchers will be able to determine more ab
 
 
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Voynich_manuscript#Parchment,_covers,_and_binding)\\
-[Source: Undark](https://undark.org/2020/02/12/decoding-bizarre-voynich-manuscript/)\\
+[Source: Undark](https://undark.org/2020/02/12/decoding-bizarre-voynich-manuscript/)
 
