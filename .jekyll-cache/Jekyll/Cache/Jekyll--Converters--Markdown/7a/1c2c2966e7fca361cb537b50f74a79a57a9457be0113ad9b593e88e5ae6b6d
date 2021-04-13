@@ -1,0 +1,21 @@
+I"<p>For most public-key ciphers that we used today, such as RSA, Diffie-Hellman or ECC, the <strong>quantum computer</strong>’s successful implementation will be their doomsday. The difficult mathematical problems they rely on will no longer be infeasible for the computer to solve efficiently.</p>
+
+<p>To cope with the threat that the quantum computer may pose to data security, the National Institute of Standards and Technology(NIST) of the USA holds a competition to find ciphers that can resist the attacks from quantum computers and standardize them.</p>
+
+<p>Now the competition is in its third round, and the NIST is yet to decide on the new standard. Three of the four remaining public key encryption candidates are lattice-based.</p>
+
+<p><img src="https://i.loli.net/2021/04/11/uHtwndN23Wlfm8I.png" alt="" height="200px" width="550px" /></p>
+
+<p>Image: List of Round 3 candidates</p>
+
+<p>Lattice-based ciphers are constructed on high-dimension lattice problems. For example, finding the closest lattice point to a given location is easy in a two or three-dimensional lattice. But if the number of dimensions is as high as tens of thousands, the shortest vector problem(SVP) becomes infeasible to solve even for a quantum computer.</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CVP.svg/330px-CVP.svg.png" alt="" height="84px" width="165px" /></p>
+
+<p>Image: 2D Closest vector problem (basis vectors in blue, external vector in green, closest vector in red)</p>
+
+<p><a href="https://en.wikipedia.org/wiki/NIST_Post-Quantum_Cryptography_Competition">Source: Wikipedia page of “NIST Post-Quantum Cryptography Competition”</a><br />
+<a href="https://en.wikipedia.org/wiki/Lattice_problem">Source: Wikipedia page of “Lattice problem”</a><br />
+<a href="https://csrc.nist.gov/Projects/post-quantum-cryptography/post-quantum-cryptography-standardization">Source: PQC official website</a><br />
+<a href="https://csrc.nist.gov/Projects/post-quantum-cryptography/round-3-submissions">Source: Round 3 Candidates’ list</a></p>
+:ET

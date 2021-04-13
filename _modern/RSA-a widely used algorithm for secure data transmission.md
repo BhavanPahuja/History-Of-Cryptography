@@ -4,16 +4,24 @@ start: 1977
 order: 3
 ---
 
-RSA was first publicly described by Ron Rivest, Adi Shamir, and Leonard Adleman in 1977.  As a highly secure and reliable asymmetrical cryptosystem, it plays an essential role in people's daily use of the internet. Examples include RSA digital signature and certificate, TLS, SSL, etc. 
+RSA was first publicly described by Ron Rivest, Adi Shamir, and Leonard Adleman in 1977.  As a highly secure and reliable asymmetrical cryptosystem, it plays an essential role in people's daily use of the internet. Examples of its application include RSA digital signature and certificate, TLS, SSL, etc. 
 
-Similar to the Diffie-Hellman protocol, the RSA makes good use of the modulo exponential because it is a one-way function that is easy to do in one direction but hard to reverse in the other.  Euler's totient function is used to construct a big prime with known prime factors, and the public and private keys are generated based on them.  
+Similar to the Diffie-Hellman protocol, the RSA makes good use of the _modulo exponential_ because it is a one-way function that is easy to do in one direction but hard to reverse in the other.  
 
-![](https://lh3.googleusercontent.com/proxy/dpEOAiyv3zhGBmXzzrjGZWuyTXLY90JcbabGIyBWgzhnWv15GtpcJCN5g6vpnvsCfW9sJ4C4rVi1BrukIvW7t-4du50MVnzNd6PSZxwf_L1kWg){:height="350px" width="450px"}
+The RSA algorithm uses _Euler's theorem_ to generate public and private key pairs. The _Euler's totient function_ is also applied to construct a big number with a known number of smaller numbers that are prime to it.
+
+![](https://ae04.alicdn.com/kf/U730ccab0ff604702807e7f3238bf980co.png){:height="300px" width="450px"}
 
 Image: An example of how RSA keys are generated
 
-The properly implemented RSA system is regarded as unbreakable now because of the computer's lack of efficient methods to find the factors of huge primes. Only RSA private keys with very short lengths were successfully broken in the past. However, the algorism may become insecure if the quantum computer is invented one day. It may be able to solve the mathematical problem it relies on efficiently.
+Encryption and decryption of messages are much easier to understand than generating keys. They only involve simple modular exponentiation with encrypted or plaintext messages and the keys. 
+
+![](https://ae03.alicdn.com/kf/U331252f558da4f0f86e52522eadf132aw.png){:height="300px" width="450px"}
+
+Image: An example of RSA encryption and decryption
+
+The security level the RSA can achieve depends on the length of keys. Today people often use RSA keys of 1,536 to 4,096 bits to make it secure. However, it has been proved to be not _quantum-resistant_. People may need to replace it with new cryptosystems before the practical quantum computer becomes a reality.
+
 
 [Source: Wikipedia page of "RSA"](https://en.wikipedia.org/wiki/RSA_(cryptosystem)#Security_and_practical_considerations)\\
-[Source: The original patent of RSA](https://patents.google.com/patent/US4405829)\\
-[Source: The example](http://modafurstore.com/nantyr/rsa-example-p-17-q-11.php)
+[Source: The original patent of RSA](https://patents.google.com/patent/US4405829)

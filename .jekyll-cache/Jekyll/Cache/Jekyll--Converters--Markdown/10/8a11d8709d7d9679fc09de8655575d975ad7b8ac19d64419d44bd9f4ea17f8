@@ -1,0 +1,21 @@
+I"<p>RSA was first publicly described by Ron Rivest, Adi Shamir, and Leonard Adleman in 1977.  As a highly secure and reliable asymmetrical cryptosystem, it plays an essential role in people’s daily use of the internet. Examples of its application include RSA digital signature and certificate, TLS, SSL, etc.</p>
+
+<p>Similar to the Diffie-Hellman protocol, the RSA makes good use of the modulo exponential because it is a one-way function that is easy to do in one direction but hard to reverse in the other.</p>
+
+<p>The RSA algorithm uses Euler’s theorem to generate public and private key pairs. TheEuler’s totient function is also applied to construct a big number with a known number of smaller numbers that are prime to it.</p>
+
+<p><img src="https://sm.ms/image/WnIT6d7vmyrHOGK" alt="" height="350px" width="450px" /></p>
+
+<p>Image: An example of how RSA keys are generated</p>
+
+<p>Encryption and decryption of messages are much easier to understand than generating keys. They only involve simple modular exponentiation with encrypted or plaintext messages and the keys.</p>
+
+<p><img src="https://sm.ms/image/clw3tSXo9OENx5K" alt="" height="350px" width="450px" /></p>
+
+<p>Image: An example of how RSA keys are generated</p>
+
+<p>The security level the RSA can achieve depends on the length of keys. Today people often use RSA keys of 1,536 to 4,096 bits to make it secure. However, it has been proved to be not quantum-resistant. People may need to replace it with new cryptosystems before the practical quantum computer becomes a reality.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)#Security_and_practical_considerations">Source: Wikipedia page of “RSA”</a><br />
+<a href="https://patents.google.com/patent/US4405829">Source: The original patent of RSA</a></p>
+:ET

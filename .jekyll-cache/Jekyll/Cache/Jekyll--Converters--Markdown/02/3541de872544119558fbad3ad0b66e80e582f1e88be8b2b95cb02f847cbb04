@@ -1,0 +1,13 @@
+I"�<p>In 1949, Claude E. Shannon’s paper, <em>Communication theory of secrecy systems</em>, was published, marking the birth of modern cryptography.</p>
+
+<p>As one of the most famous cryptographers in human history, Shanon was the first man to research cryptography scientifically. In his paper, he gave a mathematical description of a secrecy system and proposed a definition of <em>perfect secrecy</em>. According to Shannon, a cryptosystem is unbreakable when the encrypted message indicates nothing about the plaintext and the adversaries make ciphertext-only attacks. <a href="https://en.wikipedia.org/wiki/One-time_pad">One Time Pad</a>(OTP) can be regarded as an example of perfect secrecy.</p>
+
+<p><img src="https://www.researchgate.net/profile/Dirk-Baecker/publication/306143640/figure/fig2/AS:600487783038977@1520178852543/Shannons-schematic-of-a-general-secrecy-system.png" alt="" height="200px" width="400px" /></p>
+
+<p>Image: The secrecy system described in Shannon’s paper</p>
+
+<p>Shannon transformed cryptography from art to science. He laid a solid foundation for the future development of modern cryptography.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/History_of_cryptography">Source: Wikipedia page of <em>History of cryptography</em></a><br />
+<a href="https://www.fil.univ-lille1.fr/~wegrzyno/portail/PAC/Doc/shannon1949.pdf">Source: Communication theory of secrecy systems by Claude E. Shannon</a></p>
+:ET

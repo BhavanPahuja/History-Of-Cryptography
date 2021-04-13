@@ -1,0 +1,20 @@
+I"�<p>The Elliptic Curve cryptography was first suggested by Neal Koblitz and Victor S. Mille in 1985 but was not widely used until 2004.</p>
+
+<p>Like other public-key ciphers, ECC also relies on the computer’s inability to solve a mathematical problem: the elliptic curve discrete logarithm problem. The point multiplication for an elliptic curve is easy to do for the computer, but the process is hard to reverse.</p>
+
+<p>The mechanism of ECC can be simplified as nA = B. In the equation, A is the starting point on the curve, while B is the resulting point after n times of multiplication. When doing one time of multiplication, the tangent line through the original point is drawn, and its point of intersection on the elliptic curve is found, which is the result of 2*the original point.</p>
+
+<p><img src="https://i.stack.imgur.com/ygncy.png" alt="" height="400px" width="450px" /></p>
+
+<p>Image: How multiplication is done on an elliptic curve</p>
+
+<p>Then the multiplier n is kept as the private key. It is extremely difficult for an adversary to find the private key given the starting point A and the ending point B.</p>
+
+<p>Compared to the RSA, ECC can achieve the same security level using keys with fewer bits, which means a lot since the devices we use often have limited memory. Given its high security and good efficiency, it is now widely applied to do the key exchange, make Digital Signature and implement cryptocurrencies like Bitcoins.</p>
+
+<p>However, there are some concerns about the current ECC standard. Some leaked documents indicate that the USA’s National Security Agence(NSA) puts a backdoor in it and makes it unsafe.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Elliptic-curve_cryptography">Source: Wikipedia page of “ECC”</a><br />
+<a href="https://www.youtube.com/watch?v=muIv8I6v1aE">Source: A tutorial on ECC on YouTube</a><br />
+<a href="https://crypto.stackexchange.com/questions/48657/how-does-ecc-go-from-decimals-to-integers">Source: The image</a></p>
+:ET

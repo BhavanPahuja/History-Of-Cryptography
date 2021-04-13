@@ -1,0 +1,10 @@
+I"�<p><img src="http://4.bp.blogspot.com/-dSovKAAOnf4/USmy1SnDfTI/AAAAAAAAARw/AWNIWKrjTcI/s200/babbage.png" alt="" height="200px" width="160px" /></p>
+
+<p>Kasiski’s test is a method of statistical analysis that utilized the crack polyalphabetic substitution ciphers. Although published by Friedrich Kasiski in 1863, the technique had already been found by Charles Babbage as early as 1846. Sadly the system was attributed to Friedrich as a result of Charles Babbage habit of not finishing the paperwork aspect of his work.</p>
+
+<p>The method focuses on determining the <em>key size</em> of the polyalphabetic substitution cipher. This is a result of the fundamental weakness of these ciphers beeing that if the key  length is known the cipher text can be split apart into <em>individual shift ciphers</em>.  In order to find the key length, we look for <em>repeated strings</em> of characters in the ciphertext.  By then looking at the overall distances between the occurrences  we can see that they are <em>multiples</em>  of the key length.</p>
+
+<p><a href="http://ethw.org/Cryptography">Source: Cryptography - Engineering and Technology History</a><br />
+<a href="https://asecuritysite.com/encryption/kasiski">Source: A bils’s security site</a></p>
+
+:ET
