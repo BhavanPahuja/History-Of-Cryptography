@@ -6,7 +6,7 @@ order: 0
 
 Leon Battista Alberti was known as the ultimate renaissance man.  An architect, artist, author, poet, and philosopher, Alberti was also a talented mathematician and cryptographer, contributing to both fields extensively.  
 
-![](https://lh3.googleusercontent.com/proxy/8b14Ms6DgmLuZ7Lx8QkHblXOAWtXPpelpUO5AO6asFdHY-auZghEYUvf88aU3Lg0MHKHJsIUaB1V93W8A2GKEcFzlfF7oDLc05yB9xayqSLY){:height="200px" width="150px"}
+![](https://www.thoughtco.com/thmb/N42YeGIDJxRzYe1wzbkdTr8cTQk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-2663424-5c5b3369c9e77c0001661eca.jpg){:height="200px" width="150px"}
 
 In 1466, Alberti wrote a collection of essays entitled _“De componendis cifris”_, which roughly translates to _“The compiling of ciphers”_.  Within these essays, he described his creation, the Alberti cipher, one of the first known _polyalphabetic ciphers_.  Unlike _simple monoalphabetic substitution ciphers_ which were extremely vulnerable to _frequency analysis_ (looking at the frequency at which certain letter and words appear and comparing them to expected frequencies for a specific language), _polyalphabetic ciphers_ switch encoding alphabets periodically throughout the coded message, making it much more difficult to find patterns in the code.
 
