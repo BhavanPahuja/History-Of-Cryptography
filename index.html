@@ -19,7 +19,7 @@ layout: default
     </div>
 
     <div id="ancient">
-    {% assign steps = site.ancient | sort: 'order' %}
+    {% assign steps = site.ancient | sort: 'start' | reverse %}
     {% for step in steps %}
     <div class="item">
         <i class="vertical-line"></i>
