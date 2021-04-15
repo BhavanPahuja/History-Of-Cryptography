@@ -18,5 +18,10 @@ Although Mary’s messages were all written using a _nomenclature cipher_ that r
 
 [Source: Hashedout](https://www.thesslstore.com/blog/the-babington-plot/)\\
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Babington_Plot#Arrests,_trials_and_executions)
+\\
+[Image 1](https://www.history.com/.image/t_share/MTYwNDY4MjQ4OTQzNDA0NDA0/queen-elizabeth-i_mary-queen-of-scots.jpg)
+\\
+[Image 2](https://upload.wikimedia.org/wikipedia/commons/e/e0/Babington_postscript.jpg)
+
 
 

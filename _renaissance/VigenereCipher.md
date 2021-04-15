@@ -13,4 +13,7 @@ The polyalphabetic ciphers reduce the *frequency pattern* of letters in a cipher
 [Source: Cryptography - Engineering and Technology History](http://ethw.org/Cryptography)\\
 [Source: Biblio](https://www.biblio.com/blog/2014/11/renaissance-codes-ciphers-exhibition-folger/#)\\
 [Source: UCSD Mathematics](http://math.ucsd.edu/~crypto/java/EARLYCIPHERS/Monoalphabetic.html)
+\\
+[Image](https://d18l82el6cdm1i.cloudfront.net/image_optimizer/997c2bba1ecf29be6672e66e0f7da1bd75e9c648.png)
+
 

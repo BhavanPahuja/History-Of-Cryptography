@@ -15,4 +15,7 @@ The first page of al-Kindi's manuscript and it's descriptions of *cryptanalysis 
 [Source: Biblio](https://www.biblio.com/blog/2014/11/renaissance-codes-ciphers-exhibition-folger/#)\\
 [Source: UCSD Mathematics](http://math.ucsd.edu/~crypto/java/EARLYCIPHERS/Monoalphabetic.html)\\
 [Source: 101 Computing](http://www.101computing.net/frequency-analysis/)
+\\
+[Image](https://i1.wp.com/mvslim.com/wp-content/uploads/2018/01/Al-kindi-omslag.png?w=727&ssl=1)
+
 

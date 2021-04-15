@@ -14,5 +14,7 @@ The method focuses on determining the *key size* of the polyalphabetic substitut
 
 [Source: Cryptography - Engineering and Technology History](http://ethw.org/Cryptography)\\
 [Source: A bils's security site](https://asecuritysite.com/encryption/kasiski)
+\\
+[Image](http://4.bp.blogspot.com/-dSovKAAOnf4/USmy1SnDfTI/AAAAAAAAARw/AWNIWKrjTcI/s200/babbage.png)
 
 

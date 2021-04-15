@@ -22,6 +22,14 @@ Nineteen years later, Trithemius followed up his work on secret communication wi
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Tabula_recta)\\
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Steganographia)\\
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Polygraphia_(book))
+\\
+[Image 1](https://upload.wikimedia.org/wikipedia/commons/b/b8/Trithemius-Johannes-Steganographia-Johannes-Saurius%2C-1608.-Digitized-photographic-reproduction-provided-by-the-Herzog-August-Bibliothek.jpg)
+\\
+[Image 2](https://historyofinformation.com/images/Screen_Shot_2019-08-18_at_1.11.03_PM.png)
+\\
+[Image 3](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vigen%C3%A8re_square_shading.svg/1200px-Vigen%C3%A8re_square_shading.svg.png)
+
+
 
 
 

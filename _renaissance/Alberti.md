@@ -20,3 +20,8 @@ Although flawed, Alberti’s cipher was a huge breakthrough for the field of cry
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Alberti_cipher)\\
 [Source: Trinity College](http://www.cs.trincoll.edu/~crypto/historical/alberti.html#:~:text=The%20Alberti%20cipher%2C%20described%20in,A%20Treatise%20on%20Ciphers%2C%20trans.&text=The%20Alberti%20cipher%20traditionally%20consisted,inner%20disc%20may%20be%20rotated.)\\
 [Source: Western Connecticut State University](https://sites.wcsu.edu/mbxml/html/section_alberti.html)
+\\
+[Image 1](https://www.thoughtco.com/thmb/N42YeGIDJxRzYe1wzbkdTr8cTQk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-2663424-5c5b3369c9e77c0001661eca.jpg)
+\\
+[Image 2](https://upload.wikimedia.org/wikipedia/commons/7/70/Alberti_cipher_disk.JPG)
+

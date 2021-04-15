@@ -12,3 +12,6 @@ Simply put, it is the probability that two randomly selected letters in a text s
 
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Index_of_coincidence)\\
 [Source: Practical Cryptography](http://practicalcryptography.com/cryptanalysis/text-characterisation/index-coincidence/)
+\\
+[Image](https://pictures.abebooks.com/inventory/30792074122.jpg)
+
