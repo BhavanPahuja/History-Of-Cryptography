@@ -4,7 +4,7 @@ start: 1919
 order: 2
 ---
 
-Cousin to the stream cipher and invented by the same minds, the one-time pad is an uncrackable encryption technique (if applied correctly). The "pad" part of the name comes from the sheets of paper on which the key stream was printed.
+Cousin to the stream cipher and invented by the same minds, the one-time pad (OTP) is an uncrackable encryption technique (if applied correctly). The "pad" part of the name comes from the sheets of paper on which the key stream was printed.
 
 The key (no pun intended) difference between the OTP and a standard stream cipher is that the digits in the key stream are _truly random_. A proper OTP should also have the following properties:
 
@@ -13,7 +13,7 @@ The key (no pun intended) difference between the OTP and a standard stream ciphe
 3. Any OTP should only be used once
 4. Both copies of the OTP must be destroyed immediately post-communication
 
-The OTP was very popular among intelligence agents (and is still used today). Spies would often conceal the pads in incospicuous objects such as walnuts, stones and more.
+The OTP was very popular among intelligence agents (and is still used today). Spies would often conceal the pads in inconspicuous objects such as walnuts, stones and more.
 
 ![](https://cryptosmith.files.wordpress.com/2007/06/walnut_12539.jpg){:height="200px" width="300px"}
 

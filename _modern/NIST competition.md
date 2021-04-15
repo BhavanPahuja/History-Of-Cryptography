@@ -4,9 +4,9 @@ start: 2016
 order: 7
 ---
 
-For most _public-key ciphers_ that we use today, such as RSA, Diffie-Hellman or ECC, the _quantum computer_'s successful implementation will be their doomsday. The difficult mathematical problems they rely on will no longer be infeasible for the computer to solve efficiently. 
+For most _public-key ciphers_ that we use today, such as RSA, Diffie-Hellman or ECC, the _quantum computer_'s successful implementation will be their doomsday. The difficult mathematical problems they rely on will become feasible for the computer to solve efficiently. 
 
-To cope with the threat that the quantum computer may pose to data security, the National Institute of Standards and Technology(NIST) of the USA holds a competition to find ciphers that can resist the attacks from quantum computers and standardize them. 
+To cope with the threat that the quantum computer may pose to data security, the National Institute of Standards and Technology (NIST), which is part of the United States Department of Commerce, holds a competition to find ciphers that can resist the attacks from quantum computers, and standardizes them. 
 
 Now the competition is in its third round, and the NIST is yet to decide on the new standard. Three of the four remaining public key encryption candidates are _lattice-based_. 
 
@@ -18,7 +18,7 @@ _Lattice-based ciphers_ are constructed on high-dimensional lattice problems. Fo
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CVP.svg/330px-CVP.svg.png){:height="84px" width="165px"}
 
-Image 2: 2D Closest vector problem (basis vectors in blue, external vector in green, closest vector in red)
+Image 2: 2D closest vector problem (basis vectors in blue, external vector in green, closest vector in red)
 
 [Source: Wikipedia page of _NIST Post-Quantum Cryptography Competition_](https://en.wikipedia.org/wiki/NIST_Post-Quantum_Cryptography_Competition)\\
 [Source: Wikipedia page of _Lattice-based cryptography_](https://en.wikipedia.org/wiki/Lattice-based_cryptography)\\
