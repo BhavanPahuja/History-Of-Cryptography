@@ -14,4 +14,5 @@ In 1939, on the cusp of WWII breaking out, the Polish team met with the British 
 
 These heroes of the war never recieved the recognition they deserved, were exiled after the invasion of Poland, and several died or were imprisoned during the course of the war.
 
-[Source: Nature](https://www.nature.com/articles/d41586-018-06149-y)
+[Source: Nature](https://www.nature.com/articles/d41586-018-06149-y)\\
+[Image](https://media.nature.com/w1024/magazine-assets/d41586-018-06149-y/d41586-018-06149-y_16085366.jpg)
