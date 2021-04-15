@@ -1,0 +1,24 @@
+I"�	<p>For most <em>public-key ciphers</em> that we use today, such as RSA, Diffie-Hellman or ECC, the <em>quantum computer</em>’s successful implementation will be their doomsday. The difficult mathematical problems they rely on will no longer be infeasible for the computer to solve efficiently.</p>
+
+<p>To cope with the threat that the quantum computer may pose to data security, the National Institute of Standards and Technology(NIST) of the USA holds a competition to find ciphers that can resist the attacks from quantum computers and standardize them.</p>
+
+<p>Now the competition is in its third round, and the NIST is yet to decide on the new standard. Three of the four remaining public key encryption candidates are <em>lattice-based</em>.</p>
+
+<p><img src="https://i.loli.net/2021/04/11/uHtwndN23Wlfm8I.png" alt="" height="200px" width="550px" /></p>
+
+<p>Image 1: List of Round 3 candidates</p>
+
+<p><em>Lattice-based ciphers</em> are constructed on high-dimensional lattice problems. For example, finding the closest lattice point to a given location is easy in a two or three-dimensional lattice. But if the number of dimensions is as high as tens of thousands, the <em>shortest vector problem(SVP)</em> becomes infeasible to solve even for a quantum computer.</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CVP.svg/330px-CVP.svg.png" alt="" height="84px" width="165px" /></p>
+
+<p>Image 2: 2D Closest vector problem (basis vectors in blue, external vector in green, closest vector in red)</p>
+
+<p><a href="https://en.wikipedia.org/wiki/NIST_Post-Quantum_Cryptography_Competition">Source: Wikipedia page of <em>NIST Post-Quantum Cryptography Competition</em></a><br />
+<a href="https://en.wikipedia.org/wiki/Lattice-based_cryptography">Source: Wikipedia page of <em>Lattice-based cryptography</em></a><br />
+<a href="https://en.wikipedia.org/wiki/Lattice_problem">Source: Wikipedia page of <em>Lattice problem</em></a><br />
+<a href="https://csrc.nist.gov/Projects/post-quantum-cryptography/post-quantum-cryptography-standardization">Source: PQC official website</a><br />
+<a href="https://csrc.nist.gov/Projects/post-quantum-cryptography/round-3-submissions">Source: Round 3 Candidates’ list</a><br />
+<a href="https://i.loli.net/2021/04/11/uHtwndN23Wlfm8I.png">Source: Image 1</a><br />
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CVP.svg/330px-CVP.svg.png">Source: Image 2</a></p>
+:ET

@@ -27,4 +27,4 @@ Image: Procedure described by DES
 As the computers become more capable, the DES with keys of only 56 bits gradually became unsafe. It was proved to be vulnerable to the attacks that target its padding process. _3DES_, a cipher that applies the DES three times to each data block, is developed later to enhance its security level. The _AES_ replaced it as the US government standard in 2001. 
 
 [Source: Wikipedia page of _Data Encryption Standard_](https://en.wikipedia.org/wiki/Data_Encryption_Standard)\\
-[Source: Think && Act(a technology blog)](https://kysonlok.gitbook.io/blog/cryptography/data_encryption_standard)
+[Source: Image](https://gblobscdn.gitbook.com/assets%2F-LcH-QVg6rYxTtCdeD1x%2F-Lnvz31vIYnJQRresaDe%2F-Lnvz3zcSRpAj0WiA1di%2Fdes_structure.jpg?alt=media)

@@ -12,16 +12,18 @@ Now the competition is in its third round, and the NIST is yet to decide on the 
 
 ![](https://i.loli.net/2021/04/11/uHtwndN23Wlfm8I.png){:height="200px" width="550px"}
 
-Image: List of Round 3 candidates
+Image 1: List of Round 3 candidates
 
 _Lattice-based ciphers_ are constructed on high-dimensional lattice problems. For example, finding the closest lattice point to a given location is easy in a two or three-dimensional lattice. But if the number of dimensions is as high as tens of thousands, the _shortest vector problem(SVP)_ becomes infeasible to solve even for a quantum computer. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CVP.svg/330px-CVP.svg.png){:height="84px" width="165px"}
 
-Image: 2D Closest vector problem (basis vectors in blue, external vector in green, closest vector in red)
+Image 2: 2D Closest vector problem (basis vectors in blue, external vector in green, closest vector in red)
 
 [Source: Wikipedia page of _NIST Post-Quantum Cryptography Competition_](https://en.wikipedia.org/wiki/NIST_Post-Quantum_Cryptography_Competition)\\
 [Source: Wikipedia page of _Lattice-based cryptography_](https://en.wikipedia.org/wiki/Lattice-based_cryptography)\\
 [Source: Wikipedia page of _Lattice problem_](https://en.wikipedia.org/wiki/Lattice_problem)\\
 [Source: PQC official website](https://csrc.nist.gov/Projects/post-quantum-cryptography/post-quantum-cryptography-standardization)\\
-[Source: Round 3 Candidates' list](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-3-submissions)
+[Source: Round 3 Candidates' list](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-3-submissions)\\
+[Source: Image 1](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-3-submissions)\\
+[Source: Image 2](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CVP.svg/330px-CVP.svg.png)
