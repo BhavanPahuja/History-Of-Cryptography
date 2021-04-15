@@ -10,6 +10,8 @@ As a result of the *frequency analysis technique*, virtually all ciphers were re
 
 The polyalphabetic ciphers reduce the *frequency pattern* of letters in a ciphertext by converting a shared secret shift word by converting each letter in the word to the corresponding letter in the alphabet. Then the sequence of numbers is repeated across the message. Finally, the message is encrypted by shifting the letter of the message according to the number from earlier.
 
+The Vigenere Cipher was an improvement on existing polyalphabetic ciphers due to its use of a keyword that is used to change the enciphering alphabet after every letter.  This allows it to change often enough to prevent patterns from appearing, while also being easy for the users to remember and use.
+
 [Source: Cryptography - Engineering and Technology History](http://ethw.org/Cryptography)\\
 [Source: Biblio](https://www.biblio.com/blog/2014/11/renaissance-codes-ciphers-exhibition-folger/#)\\
 [Source: UCSD Mathematics](http://math.ucsd.edu/~crypto/java/EARLYCIPHERS/Monoalphabetic.html)
