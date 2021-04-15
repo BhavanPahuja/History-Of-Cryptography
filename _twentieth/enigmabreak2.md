@@ -6,7 +6,7 @@ order: 5
 
 We now come to the story (or at least part of it) of arguably the greatest mind in all of computational science, Alan Turing. Along with his colleagues at Bletchley Park, they are the team most known for cracking the Enigma. The team known as 'Hut 8', lead by Turing, was also in charge of decrypting more sophisticated German naval comms.
 
-Building on the work of his Polish contemporaries, Turing along with his colleague Gordon Welchman invented the British _Turing-Welchman bombe_ (named in homage to its Polish ancestor), an electromechanical the rotor-based device specifically targeting Enigma operations. The bombe's purpose was to discover the daily key used in the Enigma messages by deducing things such as the settings, rotor orders and other configurations.
+Building on the work of his Polish contemporaries, Turing along with his colleague Gordon Welchman invented the British _Turing-Welchman bombe_ (named in homage to its Polish ancestor), an electromechanical rotor-based device specifically targeting Enigma operations. The bombe's purpose was to discover the daily key used in the Enigma messages by deducing things such as the settings, rotor orders and other configurations.
 
 ![](https://www.cryptomuseum.com/crypto/bombe/img/us_bombe_full.jpg){:height="200px" width="250px"}
 
