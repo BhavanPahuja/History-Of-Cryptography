@@ -20,4 +20,5 @@ The OTP was very popular among intelligence agents (and is still used today). Sp
 If you'd like to get into the nitty-gritty of how the OTP works, [this paper](http://users.telenet.be/d.rijmenants/papers/one_time_pad.pdf) is an excellent read.
 
 [Source: Wikipedia](https://en.wikipedia.org/wiki/One-time_pad#History)\\
-[Source: Crypto Museum](https://www.cryptomuseum.com/covert/deaddrop/walnut.htm)
+[Source: Crypto Museum](https://www.cryptomuseum.com/covert/deaddrop/walnut.htm)\\
+[Image](https://cryptosmith.files.wordpress.com/2007/06/walnut_12539.jpg)

@@ -15,4 +15,6 @@ The basic idea behind using rotors is as follows: imagine if you had a typewrite
 The most famous of the rotor machines were the German Enigma machines invented by Arthur Scheribus (one of the aforementioned 4 scientists). They were first adopted by the Reichsmarine in 1926 and were subsequently adopted by the rest of the German Armed Forces. The Enigma was an elegant invention in that it was simple to build but extremely difficult to break (more on that later). You can read more about how it operated [here](https://www.theguardian.com/technology/2014/nov/14/how-did-enigma-machine-work-imitation-game).
 
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Rotor_machine)\\
-[Source: Crypto-IT](http://www.crypto-it.net/eng/simple/rotor-machines.html)
+[Source: Crypto-IT](http://www.crypto-it.net/eng/simple/rotor-machines.html)\\
+[Image](https://upload.wikimedia.org/wikipedia/commons/9/9f/Enigma_rotor_set.png)\\
+[Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/EnigmaMachineLabeled.jpg/220px-EnigmaMachineLabeled.jpg)

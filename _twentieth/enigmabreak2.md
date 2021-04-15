@@ -15,4 +15,5 @@ The bombe's operation was based on Turing's idea of using 'cribs', that is, comp
 Over the course of the war, over 200 bombe devices were built and it is estimated that the efforts of the Bletchley Park team helped shorten the war by several years, saving countless lives.
 
 [Source: National Museum of Computing](https://www.tnmoc.org/bombe)\\
-[Source: Wikipedia](https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma)
+[Source: Wikipedia](https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma)\\
+[Image](https://www.cryptomuseum.com/crypto/bombe/img/us_bombe_full.jpg)
