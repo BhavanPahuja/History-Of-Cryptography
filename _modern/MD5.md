@@ -20,4 +20,5 @@ Although MD5 is still widely used today, it has been proved to have severe vulne
 
 [Source: Wikipedia page of _MD5_](https://en.wikipedia.org/wiki/MD5)\\
 [Source: Wikipedia page of _Cryptographic hash function_](https://en.wikipedia.org/wiki/Cryptographic_hash_function)\\
-[Source: A youtube tutorial about hash function](https://www.youtube.com/watch?v=GI790E1JMgw)
+[Source: A youtube tutorial about hash function](https://www.youtube.com/watch?v=GI790E1JMgw)\\
+[Source: Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cryptographic_Hash_Function.svg/563px-Cryptographic_Hash_Function.svg.png)

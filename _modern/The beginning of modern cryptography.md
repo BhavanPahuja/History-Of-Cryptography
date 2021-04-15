@@ -15,4 +15,5 @@ Image: The secrecy system described in Shannon's paper
 Shannon transformed cryptography from art to science. He laid a solid foundation for the future development of modern cryptography. 
 
 [Source: Wikipedia page of _History of cryptography_](https://en.wikipedia.org/wiki/History_of_cryptography)\\
-[Source: _Communication theory of secrecy systems_ by Claude E. Shannon](https://www.fil.univ-lille1.fr/~wegrzyno/portail/PAC/Doc/shannon1949.pdf)
+[Source: _Communication theory of secrecy systems_ by Claude E. Shannon](https://www.fil.univ-lille1.fr/~wegrzyno/portail/PAC/Doc/shannon1949.pdf)\\
+[Source: Image](https://www.researchgate.net/profile/Dirk-Baecker/publication/306143640/figure/fig2/AS:600487783038977@1520178852543/Shannons-schematic-of-a-general-secrecy-system.png)

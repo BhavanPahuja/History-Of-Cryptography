@@ -15,4 +15,5 @@ Image: MixColumns step of the AES
 Nowadays, the AES is still widely used and is regarded to be highly secured when correctly implemented. No known attack can break it without any prior knowledge of the key. 
 
 [Source: Wikipedia page of _AES_](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)\\
-[Source: Announcement made by NIST](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf)
+[Source: Announcement made by NIST](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf)\\
+[Source: Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AES-MixColumns.svg/1920px-AES-MixColumns.svg.png)

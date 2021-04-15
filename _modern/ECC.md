@@ -22,4 +22,4 @@ However, there are some concerns about the current ECC standard. Some leaked doc
 
 [Source: Wikipedia page of _ECC_](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)\\
 [Source: A tutorial on ECC on YouTube](https://www.youtube.com/watch?v=muIv8I6v1aE)\\
-[Source: The image](https://crypto.stackexchange.com/questions/48657/how-does-ecc-go-from-decimals-to-integers)
+[Source: Image](https://crypto.stackexchange.com/questions/48657/how-does-ecc-go-from-decimals-to-integers)

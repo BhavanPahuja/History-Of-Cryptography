@@ -1,0 +1,27 @@
+I"z<p>Imaging <em>solving</em> a Rubik’s Cube of 3*3 cubies per face. Is it hard for you? If not, what about solving one with 128 cubies per face? Do you think that can be done by a human being? Meanwhile, <em>scrambling</em> a Rubik’s cube of 128 cubies per face can be an easy job even for a 3-year-old kid, which is precisely the essence of <em>Diffie-Hallman key exchange</em>, and subsequently, the <em>public key cryptosystem</em>.</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/17_layer_cube.png/800px-17_layer_cube.png" alt="" height="230px" width="250px" /></p>
+
+<p>Image 1: A Rubik’s Cube</p>
+
+<p>Before public-key cryptography was developed, all the cryptosystems used symmetrical keys, which means that the sender and receiver of a message use the same key for both encryption and decryption. However, how to distribute the symmetric key while keeping it secret becomes a problem to be solved.</p>
+
+<p><img src="https://news.bitcoin.com/wp-content/uploads/2016/03/DiffHellCova.jpg" alt="" height="200px" width="350px" /></p>
+
+<p>Image 2: Whitfield Diffie(left) and Martin Hellman(right); They got the Turing Award in 2015 for their contributions</p>
+
+<p>Diffie-Hellman key exchange method provides a solution. As the first practical public key exchange method, it is published by Ralph Merkle, Whitfield Diffie and Martin Hellman in 1976. By making full use of the computer’s ability to calculate <em>modular exponents</em> and its lack of efficient ways to solve <em>discrete logarithm problems</em>, the Diffie-Hellman key exchange enables two parties to exchange messages securely without knowing any additional information about each other in advance. It thus can be used to exchange symmetric keys for the following communication.</p>
+
+<p><img src="https://www.practicalnetworking.net/wp-content/uploads/2015/11/dh-revised.png" alt="" height="550px" width="650px" /></p>
+
+<p>Image 3: An example of how Diffie-Hellman key exchange works</p>
+
+<p>It is worth noticing that despite its secrecy against an eavesdropper of Internet traffic, it is vulnerable to <em>man-in-the-middle attack</em>. An adversary can impersonate one of the two parties of communications and get hold of all the messages exchanged. <em>Digital signatures</em> attached are necessary when using the Diffie-Hellman protocol for authentication purposes.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange">Source: Wikipedia page of <em>Diffie-Hellman key exchange</em></a><br />
+<a href="https://www-ee.stanford.edu/~hellman/publications/24.pdf">Source: <em>New Directions in Cryptography</em> by Whitfield Diffie and Martin Hellman</a><br />
+<a href="https://www.practicalnetworking.net/series/cryptography/diffie-hellman/">Source: A tutorial from <em>Practical Networking</em></a><br />
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/17_layer_cube.png/800px-17_layer_cube.png">Source: Image 1</a><br />
+<a href="https://news.bitcoin.com/wp-content/uploads/2016/03/DiffHellCova.jpg">Source: Image 2</a><br />
+<a href="https://www.practicalnetworking.net/wp-content/uploads/2015/11/dh-revised.png">Source: Image 3</a></p>
+:ET
